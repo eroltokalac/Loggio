@@ -23,9 +23,13 @@ Add your dependence POM (Maven)
     </dependency>
 
 Substitute ${last-version} the last release proposed by auto completion maven or so present at: 
+
 https://github.com/eroltokalac/loggio/releases
+
 Download the latest release (other than Project java maven)
+
 Releases: https://github.com/eroltokalac/loggio/releases
+
 Collect only two files loggio-Xxjar and loggio.properties
 
 # Prerequisites in your project
